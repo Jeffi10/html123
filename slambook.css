@@ -1,0 +1,19 @@
+
+#border{
+    border-style: double;
+    border: 10px solid/;
+    height: 15cm;
+    width: 15cm;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    opacity: 0.8;
+    background-color: rgb(100, 195, 224);
+}
+#back
+{
+    position:absolute;
+    top: 22%;
+    left:40%;
+    text-align:center;
+}
